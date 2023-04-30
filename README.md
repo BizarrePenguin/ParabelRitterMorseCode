@@ -1,5 +1,6 @@
 # ParabelRitterMorseCode
-This is a fun side project to detect and translate the morsecode found in this youtube video https://youtu.be/R3K5_4TT5kA?t=1780 that appears in the lower left corner as a blinking blue square approx. between 29:40 and 33:00.
+
+This is a fun side project to detect and translate the morsecode found in this youtube video [https://youtu.be/R3K5_4TT5kA?t=1780](https://youtu.be/R3K5_4TT5kA?t=1780) that appears in the lower left corner as a blinking blue square approx. between 29:40 and 33:00.
 
 The code was generated with the help of ChatGPT, although I needed to do a lot of corrections and give ideas because ChatGPT was not good enough in understanding the goal and being consistent with package use and variable names.
 
